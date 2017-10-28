@@ -1,0 +1,11 @@
+body {
+  font-size: 1.5em;
+  font-weight: bold;
+  overflow: hidden;
+  background-color: #333338;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
