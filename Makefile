@@ -13,4 +13,4 @@ index.html: artifact.html mithril.min.js
 	html-minifier --minify-css --minify-js --collapse-whitespace < $< > $@
 
 clean:
-	rm -f artifact.html main.js index.html
+	rm -f artifact.html main.js index.html mithril.min.js
